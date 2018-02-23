@@ -1,0 +1,13 @@
+"####### tSF File Sweeper Engaged #######" 
+Mission directory:     C:\Users\lim\Documents\Arma 3\mpmissions\co22_gray_fire_2B.smd_sahrani_a3\ 
+Mission fodler name:   co22_gray_fire_2B 
+Removing tSF Helpers 
+Removing DynAI Helpers 
+Removing unused tSF Modules 
+    Folder is not used: Removing AirborneSupport 
+    Folder is not used: Removing Interactives 
+    Folder is not used: Removing EditorVehicleCrew 
+    Folder is not used: Removing EditorUnitBehavior 
+    Folder is not used: Removing EditorRadioSettings 
+    Folder is not used: Removing Conversations 
+Done! 
